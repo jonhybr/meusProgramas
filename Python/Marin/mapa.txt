@@ -1,0 +1,7 @@
+grama_d,0,0,0,0,0,0,0,0,0,0,terra,terra,0,0,
+grama_d,0,0,tijolo,0,tijolo,tijolo,0,tijolo,0,0,terra,terra,0,0,
+grama_d,0,0,tijolo,tijolo,tijolo,tijolo,tijolo,tijolo,0,0,grama_be,grama_bd,0,0,
+0,0,0,tijolo,tijolo,tijolo,tijolo,tijolo,tijolo,0,0,0,0,0,0,
+0,0,0,tijolo,tijolo,tijolo,tijolo,tijolo,tijolo,0,0,0,0,0,0,
+grama,grama,grama,grama,grama,grama,grama,grama,grama,grama,grama,grama_cd,0,0,0,
+terra,terra,terra,terra,terra,terra,terra,terra,terra,terra,terra,terra,0,0,0,

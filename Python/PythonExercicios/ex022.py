@@ -1,0 +1,6 @@
+nome = str(input('Nome completo:')).strip()
+nomeMaí = nome.upper()
+nomeMin = nome.lower()
+nomeL = nome.replace(' ', '')
+nome1 = nome.split()
+print('Ola {}\n seu nome maiusculo é {}\n seu nome minusculo é {}\n seu nome tem {} letras\n seu primeiro nome é {} e tem {} letras'.format(nome, nomeMaí, nomeMin, len(nomeL), nome1[0], len(nome1[0])))

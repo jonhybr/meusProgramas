@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "c:\\Users\\Pichau\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.5.0\\python\\src\\"
+    ],
+    "python.linting.enabled": false
+}
